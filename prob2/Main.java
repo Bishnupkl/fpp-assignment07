@@ -1,4 +1,4 @@
-package prob2;
+package w3l8.prob2;
 
 import java.util.*;
 public class Main {
