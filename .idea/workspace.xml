@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68e90df1-2382-4798-a2b3-e5f0e6e9c95a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/prob3/MarketingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fpp-assignment07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob1/MyPersonList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob1/MyPersonList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob1/Problem1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob1/Problem1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/EmployeeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2/prob2detail.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/prob2detail.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob3/Marketing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/Marketing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob3/Prob3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/Prob3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob3/Prob3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/Prob3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob3/~$Prob3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/~$Prob3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob4/DoublyLinkedList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob4/DoublyLinkedList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob4/Prob4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob4/Prob4.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob4/Prob4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob4/Prob4.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hkoteyKuwkuzQcdnnaDjR7GtIz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MarketingTest.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/MIU/Courses/FPP/FPP-April-2024/Assignment/fpp-assignment-07/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MIU\Courses\FPP\FPP-April-2024\Assignment\fpp-assignment-07\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e90df1-2382-4798-a2b3-e5f0e6e9c95a" name="Changes" comment="" />
+      <created>1718147652111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718147652111</updated>
+      <workItem from="1718147653178" duration="8485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prob2/Statistics.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
