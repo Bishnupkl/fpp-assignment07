@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68e90df1-2382-4798-a2b3-e5f0e6e9c95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prob3/MarketingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fpp-assignment07.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob1/MyPersonList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob1/MyPersonList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob1/Problem1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob1/Problem1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob2/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/EmployeeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob2/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob2/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Statistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob2/prob2detail.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob2/prob2detail.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob3/Marketing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/Marketing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob3/Prob3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/Prob3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob3/Prob3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/Prob3.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob3/~$Prob3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob3/~$Prob3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob4/DoublyLinkedList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob4/DoublyLinkedList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob4/Prob4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob4/Prob4.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob4/Prob4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/prob4/Prob4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prob4/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2hkoteyKuwkuzQcdnnaDjR7GtIz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,11 +33,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DoublyLinkedList.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MarketingTest.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "kheang",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,6 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/MIU/Courses/FPP/FPP-April-2024/Assignment/fpp-assignment-07/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,6 +54,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MIU\Courses\FPP\FPP-April-2024\Assignment\fpp-assignment-07\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob4.DoublyLinkedList" />
+      <module name="fpp-assignment-07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DoublyLinkedList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -88,6 +92,10 @@
       <option name="presentableId" value="Default" />
       <updated>1718147652111</updated>
       <workItem from="1718147653178" duration="8485000" />
+      <workItem from="1718208148913" duration="3030000" />
+      <workItem from="1718219706796" duration="421000" />
+      <workItem from="1718220139377" duration="1097000" />
+      <workItem from="1718221253804" duration="6417000" />
     </task>
     <servers />
   </component>
@@ -107,7 +115,16 @@
           <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prob4/DoublyLinkedList.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
